@@ -1,0 +1,30 @@
+img{
+    width: 50px;}
+    #stem {
+        background-image: url(stem.jpg);
+        background-size: cover;
+        height: 400px;
+        
+        
+
+    } 
+    #start{
+        margin-left:37%;
+        width:300px;
+        margin-top: 50px;
+    }
+    h1{
+        font-size: 3em;
+        font-family: 'Righteous', cursive;
+
+    }
+    #p1{
+        font-family: 'Righteous', cursive;
+
+        width: 50%;
+        margin-left: 25%;
+        font-weight: 700;
+    }
+    .row{
+        margin-top: 25px;
+    }
